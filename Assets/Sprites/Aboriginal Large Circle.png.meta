@@ -1,0 +1,1625 @@
+fileFormatVersion: 2
+guid: fcccee40e7fb1144b939a1e79a17b36a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7108806940647197786
+    second: Aboriginal Large Circle_0
+  - first:
+      213: 7954851226759629323
+    second: Aboriginal Large Circle_1
+  - first:
+      213: 2813864010827373191
+    second: Aboriginal Large Circle_2
+  - first:
+      213: 4257426494566264534
+    second: Aboriginal Large Circle_3
+  - first:
+      213: 45840016461503807
+    second: Aboriginal Large Circle_4
+  - first:
+      213: 1196922426254427108
+    second: Aboriginal Large Circle_5
+  - first:
+      213: 6227881290353633391
+    second: Aboriginal Large Circle_6
+  - first:
+      213: 8485922541816053850
+    second: Aboriginal Large Circle_7
+  - first:
+      213: -2364099147560236842
+    second: Aboriginal Large Circle_8
+  - first:
+      213: 6636375544656792588
+    second: Aboriginal Large Circle_9
+  - first:
+      213: 4245374947366818105
+    second: Aboriginal Large Circle_10
+  - first:
+      213: -8169203747992606673
+    second: Aboriginal Large Circle_11
+  - first:
+      213: 516345651698053068
+    second: Aboriginal Large Circle_12
+  - first:
+      213: 3264667659577494718
+    second: Aboriginal Large Circle_13
+  - first:
+      213: -8155190748112462748
+    second: Aboriginal Large Circle_14
+  - first:
+      213: -8886248634359891531
+    second: Aboriginal Large Circle_15
+  - first:
+      213: -4139699390238030636
+    second: Aboriginal Large Circle_16
+  - first:
+      213: 3705069170240630463
+    second: Aboriginal Large Circle_17
+  - first:
+      213: 4074815273725075598
+    second: Aboriginal Large Circle_18
+  - first:
+      213: 3212253597858949756
+    second: Aboriginal Large Circle_19
+  - first:
+      213: -8891936118221469823
+    second: Aboriginal Large Circle_20
+  - first:
+      213: -7888392569865675105
+    second: Aboriginal Large Circle_21
+  - first:
+      213: -204448982641223095
+    second: Aboriginal Large Circle_22
+  - first:
+      213: -9030389357232465405
+    second: Aboriginal Large Circle_23
+  - first:
+      213: -5081237761306795262
+    second: Aboriginal Large Circle_24
+  - first:
+      213: -4628744265222074440
+    second: Aboriginal Large Circle_25
+  - first:
+      213: -3591634307216360085
+    second: Aboriginal Large Circle_26
+  - first:
+      213: 7115353366184415315
+    second: Aboriginal Large Circle_27
+  - first:
+      213: -948650065602330072
+    second: Aboriginal Large Circle_28
+  - first:
+      213: -7284719296591255609
+    second: Aboriginal Large Circle_29
+  - first:
+      213: 507086390862759264
+    second: Aboriginal Large Circle_30
+  - first:
+      213: -151338757599441830
+    second: Aboriginal Large Circle_31
+  - first:
+      213: -1829720428622792289
+    second: Aboriginal Large Circle_32
+  - first:
+      213: 6299285231704792823
+    second: Aboriginal Large Circle_33
+  - first:
+      213: 4901357334142268323
+    second: Aboriginal Large Circle_34
+  - first:
+      213: -6384858153375229394
+    second: Aboriginal Large Circle_35
+  - first:
+      213: 7870689985241403643
+    second: Aboriginal Large Circle_36
+  - first:
+      213: 6179667950881096108
+    second: Aboriginal Large Circle_37
+  - first:
+      213: -2067689427183967168
+    second: Aboriginal Large Circle_38
+  - first:
+      213: -8415913973958925384
+    second: Aboriginal Large Circle_39
+  - first:
+      213: -3811303596401035308
+    second: Aboriginal Large Circle_40
+  - first:
+      213: -706512200641739213
+    second: Aboriginal Large Circle_41
+  - first:
+      213: -6321274883368601636
+    second: Aboriginal Large Circle_42
+  - first:
+      213: 2773144429714856722
+    second: Aboriginal Large Circle_43
+  - first:
+      213: 7575509750190815678
+    second: Aboriginal Large Circle_44
+  - first:
+      213: 5258802560246734548
+    second: Aboriginal Large Circle_45
+  - first:
+      213: -7571976651046473924
+    second: Aboriginal Large Circle_46
+  - first:
+      213: 1048302562172038500
+    second: Aboriginal Large Circle_47
+  - first:
+      213: -6533042494819603665
+    second: Aboriginal Large Circle_48
+  - first:
+      213: 2665432307414616910
+    second: Aboriginal Large Circle_49
+  - first:
+      213: -4211311539594667524
+    second: Aboriginal Large Circle_50
+  - first:
+      213: -2124602161415900403
+    second: Aboriginal Large Circle_51
+  - first:
+      213: -7736259170549715800
+    second: Aboriginal Large Circle_52
+  - first:
+      213: -15934470464807834
+    second: Aboriginal Large Circle_53
+  - first:
+      213: -1910753058694409858
+    second: Aboriginal Large Circle_54
+  - first:
+      213: -3704899375519853663
+    second: Aboriginal Large Circle_55
+  - first:
+      213: 4898951151807605092
+    second: Aboriginal Large Circle_56
+  - first:
+      213: 5377089390589102463
+    second: Aboriginal Large Circle_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_0
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 865
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a374e560c1785d90800000000000000
+      internalID: -7108806940647197786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 881
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a861c4b0f456e60800000000000000
+      internalID: 7954851226759629323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 892
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a1f9bc86adc0720800000000000000
+      internalID: 2813864010827373191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 898
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de65f907da651b30800000000000000
+      internalID: 4257426494566264534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_4
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 899
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d9fa9804bd2a000800000000000000
+      internalID: 45840016461503807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 895
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e30898ea925c9010800000000000000
+      internalID: 1196922426254427108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_6
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 886
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6864de6901ed6650800000000000000
+      internalID: 6227881290353633391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_7
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 872
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a500d68679d04c570800000000000000
+      internalID: 8485922541816053850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 819
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d84edfc958013fd0800000000000000
+      internalID: -2364099147560236842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 844
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c8b579564291c50800000000000000
+      internalID: 6636375544656792588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_10
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 853
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931542c850a9aea30800000000000000
+      internalID: 4245374947366818105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_11
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 829
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f286c17397821ae80800000000000000
+      internalID: -8169203747992606673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 789
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfa7ce62ad6a2700800000000000000
+      internalID: 516345651698053068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_13
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 801
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc82de70fd6e4d20800000000000000
+      internalID: 3264667659577494718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_14
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 769
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c543ff831f2de80800000000000000
+      internalID: -8155190748112462748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_15
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 718
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9bd2bc2f3bda480800000000000000
+      internalID: -8886248634359891531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 755
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d406ff6655dc86c0800000000000000
+      internalID: -4139699390238030636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_17
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 734
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbea170b7cc0b6330800000000000000
+      internalID: 3705069170240630463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_18
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 679
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8028b3f6e6ac8830800000000000000
+      internalID: 4074815273725075598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_19
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 695
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a6ad4c0a7349c20800000000000000
+      internalID: 3212253597858949756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_20
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 653
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18781f3463f799480800000000000000
+      internalID: -8891936118221469823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 636
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e535090ccc68290800000000000000
+      internalID: -7888392569865675105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_22
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 609
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94adaf6cbb6a92df0800000000000000
+      internalID: -204448982641223095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_23
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 591
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ad0b289bc9da280800000000000000
+      internalID: -9030389357232465405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_24
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 564
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203e10a7d21db79b0800000000000000
+      internalID: -5081237761306795262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 545
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfcf4b6d9563cfb0800000000000000
+      internalID: -4628744265222074440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_26
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 517
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d334b70a3f72ec0800000000000000
+      internalID: -3591634307216360085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 498
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3505dc21030deb260800000000000000
+      internalID: 7115353366184415315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_28
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 469
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8224f9f9ac7b5d2f0800000000000000
+      internalID: -948650065602330072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 43
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7ae36556a77ea90800000000000000
+      internalID: -7284719296591255609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_30
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 421
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0654fc5c268890700800000000000000
+      internalID: 507086390862759264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_31
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 362
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c4988a33656edf0800000000000000
+      internalID: -151338757599441830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_32
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 373
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99b9a5e6f68b96e0800000000000000
+      internalID: -1829720428622792289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_33
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 316
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fed0ae0b8e8b6750800000000000000
+      internalID: 6299285231704792823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_34
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 326
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a33ec2e68e150440800000000000000
+      internalID: 4901357334142268323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_35
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 270
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a10d2865d6467a0800000000000000
+      internalID: -6384858153375229394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_36
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 281
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0d98347de4a3d60800000000000000
+      internalID: 7870689985241403643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_37
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 227
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca14222924792c550800000000000000
+      internalID: 6179667950881096108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_38
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 196
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0446edacb671e43e0800000000000000
+      internalID: -2067689427183967168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_39
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 237
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3aee184daa43b80800000000000000
+      internalID: -8415913973958925384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_40
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 187
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7f85d72978b1bc0800000000000000
+      internalID: -3811303596401035308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_41
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 150
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336054395e6f136f0800000000000000
+      internalID: -706512200641739213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_42
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 158
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd737313cf15648a0800000000000000
+      internalID: -6321274883368601636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_43
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 115
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bd1048a203c7620800000000000000
+      internalID: 2773144429714856722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_44
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 85
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9b1a42bfd912960800000000000000
+      internalID: 7575509750190815678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_45
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 92
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dedb63f0150bf840800000000000000
+      internalID: 5258802560246734548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_46
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 123
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fa2da9a5feae690800000000000000
+      internalID: -7571976651046473924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_47
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 59
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d656b40a15c8e00800000000000000
+      internalID: 1048302562172038500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_48
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 37
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2beeb9e678f555a0800000000000000
+      internalID: -6533042494819603665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_49
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 24
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b4c40cf848df420800000000000000
+      internalID: 2665432307414616910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_50
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 42
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9d4fb977a6e85c0800000000000000
+      internalID: -4211311539594667524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_51
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 64
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0337cf3795e382e0800000000000000
+      internalID: -2124602161415900403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_52
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 20
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aca609d54943a490800000000000000
+      internalID: -7736259170549715800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_53
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 8
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cd24cfea367cff0800000000000000
+      internalID: -15934470464807834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_54
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71570b7734ab75e0800000000000000
+      internalID: -1910753058694409858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_55
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a39299b5ad859cc0800000000000000
+      internalID: -3704899375519853663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_56
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 2
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469ab77ed129cf340800000000000000
+      internalID: 4898951151807605092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aboriginal Large Circle_57
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 11
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79c59bcf424f9a40800000000000000
+      internalID: 5377089390589102463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aboriginal Large Circle_0: -7108806940647197786
+      Aboriginal Large Circle_1: 7954851226759629323
+      Aboriginal Large Circle_10: 4245374947366818105
+      Aboriginal Large Circle_11: -8169203747992606673
+      Aboriginal Large Circle_12: 516345651698053068
+      Aboriginal Large Circle_13: 3264667659577494718
+      Aboriginal Large Circle_14: -8155190748112462748
+      Aboriginal Large Circle_15: -8886248634359891531
+      Aboriginal Large Circle_16: -4139699390238030636
+      Aboriginal Large Circle_17: 3705069170240630463
+      Aboriginal Large Circle_18: 4074815273725075598
+      Aboriginal Large Circle_19: 3212253597858949756
+      Aboriginal Large Circle_2: 2813864010827373191
+      Aboriginal Large Circle_20: -8891936118221469823
+      Aboriginal Large Circle_21: -7888392569865675105
+      Aboriginal Large Circle_22: -204448982641223095
+      Aboriginal Large Circle_23: -9030389357232465405
+      Aboriginal Large Circle_24: -5081237761306795262
+      Aboriginal Large Circle_25: -4628744265222074440
+      Aboriginal Large Circle_26: -3591634307216360085
+      Aboriginal Large Circle_27: 7115353366184415315
+      Aboriginal Large Circle_28: -948650065602330072
+      Aboriginal Large Circle_29: -7284719296591255609
+      Aboriginal Large Circle_3: 4257426494566264534
+      Aboriginal Large Circle_30: 507086390862759264
+      Aboriginal Large Circle_31: -151338757599441830
+      Aboriginal Large Circle_32: -1829720428622792289
+      Aboriginal Large Circle_33: 6299285231704792823
+      Aboriginal Large Circle_34: 4901357334142268323
+      Aboriginal Large Circle_35: -6384858153375229394
+      Aboriginal Large Circle_36: 7870689985241403643
+      Aboriginal Large Circle_37: 6179667950881096108
+      Aboriginal Large Circle_38: -2067689427183967168
+      Aboriginal Large Circle_39: -8415913973958925384
+      Aboriginal Large Circle_4: 45840016461503807
+      Aboriginal Large Circle_40: -3811303596401035308
+      Aboriginal Large Circle_41: -706512200641739213
+      Aboriginal Large Circle_42: -6321274883368601636
+      Aboriginal Large Circle_43: 2773144429714856722
+      Aboriginal Large Circle_44: 7575509750190815678
+      Aboriginal Large Circle_45: 5258802560246734548
+      Aboriginal Large Circle_46: -7571976651046473924
+      Aboriginal Large Circle_47: 1048302562172038500
+      Aboriginal Large Circle_48: -6533042494819603665
+      Aboriginal Large Circle_49: 2665432307414616910
+      Aboriginal Large Circle_5: 1196922426254427108
+      Aboriginal Large Circle_50: -4211311539594667524
+      Aboriginal Large Circle_51: -2124602161415900403
+      Aboriginal Large Circle_52: -7736259170549715800
+      Aboriginal Large Circle_53: -15934470464807834
+      Aboriginal Large Circle_54: -1910753058694409858
+      Aboriginal Large Circle_55: -3704899375519853663
+      Aboriginal Large Circle_56: 4898951151807605092
+      Aboriginal Large Circle_57: 5377089390589102463
+      Aboriginal Large Circle_6: 6227881290353633391
+      Aboriginal Large Circle_7: 8485922541816053850
+      Aboriginal Large Circle_8: -2364099147560236842
+      Aboriginal Large Circle_9: 6636375544656792588
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
